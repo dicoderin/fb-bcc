@@ -1,4 +1,0 @@
-requests
-pybase64
-pymarshal
-pyzlib
